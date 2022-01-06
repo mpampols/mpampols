@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I am Marc. I live in Lleida and I am a Full-Stack web development and I make some digital products. I work at SEMIC as director of Web and eCommerce technology. In recent years I have specialized in front and back web development, applications, B2B and B2C eCommerce stores, and integrations with ERP such as SAP, AX, Navision and others.
+I am Marc. I live in Lleida and I am a Full-Stack web development and I make some digital products. I work at SEMIC and ACTIUM Digital as Tech Lead of Web and eCommerce projects. In recent years I have specialized in front and back web development, applications, and B2B and B2C eCommerce stores. I'm currently building in public UptimeHouse.com
 
 - 🔭 I’m currently working on Web & eCommerce at SEMIC
 - 🌱 I’m currently learning React & Nextjs
